@@ -1,0 +1,9 @@
+Vata_pressure,Pitta_pressure,Kapha_pressure,Oxygen_level,label
+20,25,22,96,gastric
+20,25,22,96,migraine
+10,15,12,95,gastric
+40,45,42,98,migraine
+60,65,62,100,gastric
+10,15,12,95,migraine
+30,35,32,97,gastric
+30,35,32,97,migraine
